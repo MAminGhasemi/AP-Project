@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/farm_pic">
+        <file>alfback.jpg</file>
+        <file>anbar.jpg</file>
+        <file>back_siloo.jpg</file>
+        <file>bill_f.png</file>
+        <file>coin.png</file>
+        <file>cow_back2.jpg</file>
+        <file>cow_f.png</file>
+        <file>cow3_f.png</file>
+        <file>cowp.png</file>
+        <file>cut_pashm.png</file>
+        <file>dane.png</file>
+        <file>dushiadan.jpg</file>
+        <file>eggs_f.png</file>
+        <file>farm2.jpg</file>
+        <file>gandom.tr - Copy.png</file>
+        <file>gandom.tr.png</file>
+        <file>gandom_back.jpg</file>
+        <file>gandom_f.png</file>
+        <file>hen_back.png</file>
+        <file>hen_f2.png</file>
+        <file>hen_whit_egg.png</file>
+        <file>henff.png</file>
+        <file>jonjedadan1.jpg</file>
+        <file>khali_f.png</file>
+        <file>level.jpg</file>
+        <file>littlecow.png</file>
+        <file>login 2.png</file>
+        <file>marketcar.png</file>
+        <file>milk_f.png</file>
+        <file>nail_f.png</file>
+        <file>pashm_f.png</file>
+        <file>progresslevel.jpg</file>
+        <file>satlshir.png</file>
+        <file>sheep_f.png</file>
+        <file>sheepback.jpg</file>
+        <file>shop_f.jpg</file>
+        <file>shopedit_f.jpg</file>
+        <file>silo1.jpg</file>
+        <file>woodenplay.png</file>
+        <file>yonje_f.jpg</file>
+        <file>yonje_ff.png</file>
+        <file>shop1.png</file>
+    </qresource>
+</RCC>
